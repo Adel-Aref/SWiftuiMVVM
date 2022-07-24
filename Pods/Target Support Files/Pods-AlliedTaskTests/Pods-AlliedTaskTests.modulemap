@@ -1,0 +1,6 @@
+framework module Pods_AlliedTaskTests {
+  umbrella header "Pods-AlliedTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

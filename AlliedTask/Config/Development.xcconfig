@@ -1,0 +1,16 @@
+//
+//  Developement.xcconfig
+//  AlliedTask
+//
+//  Created by Adel Aref on 12/11/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Pods/Target Support Files/Pods-AlliedTask/Pods-AlliedTask.development.xcconfig"
+// Server URL we will update this values as received from backend team
+Base_URL = https:/$()/raw.githubusercontent.com/EsraaAbdelmotteleb/DuetAPI/gh-pages/project.json
+
+// App Settings
+APP_NAME = AlliedTask (dev)
+APP_BUNDLE_ID = com.Allied.Task
